@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "heroApp"
+    }
+  },
+  "defaultProject": "heroApp",
+  "cli": {
+    "analytics": false
+  }
 }
